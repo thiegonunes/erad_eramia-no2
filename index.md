@@ -30,7 +30,7 @@ A VI ERAD\|ERAMIA Norte 2 2026 será realizada de **forma presencial** em Macap�
 
 A VI ERAD\|ERAMIA-NO2 2026 acontecerá na [Instituto Federal de Macapá - IFAP](https://www.ifap.edu.br/). Veja o Mapa:
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d23746.1868275901!2d-51.10170524026376!3d0.08540285237654975!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8d61e680b76ce263%3A0x30df88c4500fefcd!2sFederal%20Institute%20Amap%C3%A1!5e0!3m2!1sen!2sus!4v1780956734630!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="[https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d23746.1868275901!2d-51.10170524026376!3d0.08540285237654975!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8d61e680b76ce263%3A0x30df88c4500fefcd!2sFederal%20Institute%20Amap%C3%A1!5e0!3m2!1sen!2sus!4v1780956734630!5m2!1sen!2sus](https://www.google.com/maps/place/Unifap+Digital/@-0.0090791,-51.0881592,17z/data=!4m14!1m7!3m6!1s0x929e1f00531be1c9:0x46f0536468d539aa!2sUnifap+Digital!8m2!3d-0.0090845!4d-51.0855789!16s%2Fg%2F11vs7pzk9d!3m5!1s0x929e1f00531be1c9:0x46f0536468d539aa!8m2!3d-0.0090845!4d-51.0855789!16s%2Fg%2F11vs7pzk9d?entry=ttu&g_ep=EgoyMDI2MDkxNS4wIKXMDSoASAFQAw%3D%3D)" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 [Em breve Inscrições pelo sistema ECOS da SBC](https://centraldesistemas.sbc.org.br/ecos/eradeeramiaNO2-2026). Siganos nas diferentes Redes Sociais:<br>
 
